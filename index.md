@@ -5,3 +5,5 @@
 **[HTTPS://IPC.XL.AG](https://ipcxl.github.io)**
 
 **[IPC.XL.AG@GMAIL.COM](mailto:IPC.XL.AG@GMAIL.COM)**
+
+Copyright © 2019 IPCXL
