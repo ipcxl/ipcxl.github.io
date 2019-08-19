@@ -2,6 +2,6 @@
 ## IPCXL | UNIVERSAL
 ### WELCOME TO IPCXL
 ### CONTACT
-**URL: [HTTPS://IPC.XL.AG](https://ipcxl.github.io)**
+**[HTTPS://IPC.XL.AG](https://ipcxl.github.io)**
 
-**E-MAIL: [IPC.XL.AG@GMAIL.COM](mailto:IPC.XL.AG@GMAIL.COM)**
+**[IPC.XL.AG@GMAIL.COM](mailto:IPC.XL.AG@GMAIL.COM)**
